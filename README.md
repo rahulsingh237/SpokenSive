@@ -9,7 +9,8 @@ Type or Speak, it will convert that into cursive handwriting. Take no pain, we'v
 - PyAudio
 
 ### Issues
-- Doesn't work with single characters or alphabets.
+- Doesn't work with single characters or alphabets. 
+- Doesn't work for capital letters.
 
 Handwriting generation was achieved using Recurrent Neural Networks based on an implementation from 
 [here](https://github.com/theSage21/handwritten).
